@@ -10,6 +10,6 @@
 advanced data cleansing and data manipulation tools such as fuzzy matching, parsing, and the ability to join data from multiple sources
 * Repeatable workflow design to assist with data integrity at every step of the data preparation process, and allows you to automate future projects to save time and eliminate errors
 
-# How to build Macro in Alteryx? 
+
 
 
