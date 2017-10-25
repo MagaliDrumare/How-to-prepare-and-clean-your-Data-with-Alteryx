@@ -4,7 +4,7 @@
 * Alteryx Bootcamp on Udemy by hendrik kleine : https://www.udemy.com/alteryx-bootcamp/learn/v4/overview
 * Alteryx Data Blending Starter Kit: http://bit.ly/2lcONzY
 
-# Key Alteryx Capabilities for Data Preparation: cf the screen shots .PNG. 
+# Key Alteryx Capabilities for Data Preparation (watch the screen shots)
 * Connect to and cleanse data from data warehouses, cloud applications, spreadsheets and other sources
 * Improve the integrity and quality of your data with data profiling, 
 advanced data cleansing and data manipulation tools such as fuzzy matching, parsing, and the ability to join data from multiple sources
